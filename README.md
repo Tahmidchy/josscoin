@@ -1,1 +1,1 @@
- josscoin  This Udmey Block Chain course source code which completed by me! this primary stages of Block chain the source programming langauge is javascript.
+ The Joss Coin project is a project of the Blockchain for beginner's Udemy course. This project gave me a basic to mid-level idea of how blockchain works and how to generate and mine a cryptocurrency. Honorable Naushad was my instructor. He is a software engineer by profession and a technology enthusiast.
